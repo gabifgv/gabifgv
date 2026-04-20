@@ -1,6 +1,6 @@
 # Hi, I'm Gabriella Pinheiro 👋
 
-** Data Lead | Analytics | Brazil → World**
+** Data Lead | Business Analytics | Brazil → World **
 
 I lead a team of 13 — Data Scientists, Researchers, and Performance Media specialists — within the Marketing Analytics division at FGV (Fundação Getulio Vargas), one of Brazil's most prestigious institutions and ranked **3rd most influential think tank in the world**.
 
