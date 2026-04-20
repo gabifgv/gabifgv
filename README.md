@@ -12,9 +12,9 @@ My work sits at the intersection of business strategy and technical execution: b
 
 🎓 **[edu-expansion-intelligence](https://github.com/gabifgv/edu-expansion-intelligence)** — MLOps + GenAI pipeline for educational market intelligence in Brazil. Unsupervised clustering of municipalities translated into natural language via Gemini + LangChain, running on GCP (BigQuery, Vertex AI, dbt).
 
-📊 **[portfolio-ml](https://github.com/gabifgv/portfolio-ml)** — Applied ML projects: churn prediction, credit risk, demand forecasting, spatial analysis, and portfolio optimization.
+📊 **[portfolio-ml](https://github.com/gabifgv/portfolio-ml)** — Applied ML projects.
 
-⚡ **[databricks](https://github.com/gabifgv/databricks)** — Data engineering and large-scale processing with Databricks and Apache Spark.
+⚡ **[databricks](https://github.com/gabifgv/databricks)** — Data engineering and large-scale processing..
 
 ---
 
