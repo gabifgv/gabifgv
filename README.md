@@ -1,6 +1,6 @@
 # Hi, I'm Gabriella Pinheiro 👋
 
-** Data Lead | Business Analytics | Brazil → World **
+**Data Lead | Business Analytics | Brazil**
 
 I lead a team of 13 — Data Scientists, Researchers, and Performance Media specialists — within the Marketing Analytics division at FGV (Fundação Getulio Vargas), one of Brazil's most prestigious institutions and ranked **3rd most influential think tank in the world**.
 
@@ -60,7 +60,6 @@ My work sits at the intersection of business strategy and technical execution: b
 - **MBA in AI & Analytics** — FGV *(Expected 2026)* · Predictive modeling, ML, NLP, GenAI applied to marketing, finance, and operations
 - **M.Sc. in Economic Sciences** — UFF
 - **B.A. in Economics** — UFRRJ
-- **Instructor** *(approved)* — Business Analytics MBA at FGV
 
 ---
 
