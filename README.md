@@ -23,7 +23,7 @@ My work sits at the intersection of business strategy and technical execution: b
 
 | Company | Role |
 |---------|------|
-| **FGV** | Senior Data Manager — Marketing Analytics |
+| **FGV** | Data Manager — Marketing Analytics |
 | **L'Oréal Brasil** | Data & Commercial Intelligence (DPGP division) |
 | **Horus / Neogrid** | Data Analytics & Engineering Intelligence for Coca-Cola |
 | **IPEA** | Economic Data Research (Ipeadata project) |
