@@ -4,7 +4,7 @@
 
 I lead a team of 13 — Data Scientists, Researchers, and Performance Media specialists — within the Marketing Analytics division at FGV (Fundação Getulio Vargas), one of Brazil's most prestigious institutions and ranked **3rd most influential think tank in the world**.
 
-My work sits at the intersection of business strategy and technical execution: building end-to-end data and market intelligence pipelines across Data Science, MLOps, AI Engineering, and Data Visualization.
+My work sits at the intersection of business strategy and technical execution: building end-to-end data and market intelligence pipelines across Data Science, ML, AI, and Data Visualization.
 
 ---
 
