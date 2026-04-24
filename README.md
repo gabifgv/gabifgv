@@ -16,7 +16,6 @@ My work sits at the intersection of business strategy and technical execution: b
 
 📊 **[portfolio-ml](https://github.com/gabifgv/portfolio-ml)** — Applied ML projects.
 
-⚡ **[databricks](https://github.com/gabifgv/databricks)** — Data engineering and large-scale processing.
 
 ---
 
