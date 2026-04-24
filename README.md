@@ -20,31 +20,6 @@ My work sits at the intersection of business strategy and technical execution: b
 
 ---
 
-## Tech stack
-
-**Cloud**
-`GCP` `Vertex AI` `BigQuery` `Cloud Run` `Cloud Functions`
-
-**MLOps**
-`Vertex AI Pipelines` `Model Registry` `Model Monitoring`
-
-**Data Engineering**
-`dbt` `Databricks` `Microsoft Fabric`
-
-**GenAI & AI Engineering**
-`LangChain` `Gemini` `RAG Architecture` `OpenAI API`
-
-**Data Science**
-`Predictive Modeling` `Classification` `Regression` `Clustering` `Time Series`
-
-**Languages**
-`Python` `SQL` `R`
-
-**Visualization**
-`Power BI` `Looker Studio` `Tableau`
-
----
-
 ## Experience
 
 | Company | Role |
@@ -63,11 +38,4 @@ My work sits at the intersection of business strategy and technical execution: b
 - **M.Sc. in Economic Sciences** — UFF
 - **B.A. in Economics** — UFRRJ
 
----
 
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriella_Pinheiro-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriella-pinheiro-msc/)
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail)](mailto:gabinp@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-message_me-25D366?style=flat&logo=whatsapp)](https://wa.me/5522981541632)
